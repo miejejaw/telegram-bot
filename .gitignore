@@ -1,0 +1,11 @@
+# Exclude virtual environment directory
+.venv/
+.env/
+
+# Exclude log files
+*.log
+
+# Exclude .env file
+.env
+.pyc
+.db
